@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+sentencepiece
+openai-whisper
+pillow
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+streamlit
