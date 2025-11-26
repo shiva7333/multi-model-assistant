@@ -200,3 +200,7 @@ Contributions are welcome!
 This project is licensed under the **MIT License** — free for personal & commercial use.
 
 ---
+
+OUTPUT
+
+Screenshot 2025-11-26 171908.png
